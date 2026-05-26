@@ -289,38 +289,7 @@ export default function App() {
               </button>
             </div>
 
-            {/* Organic/Premium badges icons */}
-            <div className="mt-12 flex flex-wrap justify-center gap-6 text-xs font-space">
-              <div className="flex items-center gap-2">
-                <div className="p-2 rounded-lg bg-emerald-500/10 text-emerald-500">
-                  <Award size={16} />
-                </div>
-                <div>
-                  <h4 className="font-bold text-[#0a522f] dark:text-emerald-300">Artisanal Curing</h4>
-                  <p className="text-[10px] text-gray-500 dark:text-gray-350">4-6 Weeks Aged</p>
-                </div>
-              </div>
-              
-              <div className="flex items-center gap-2">
-                <div className="p-2 rounded-lg bg-emerald-500/10 text-emerald-500">
-                  <Leaf size={16} />
-                </div>
-                <div>
-                  <h4 className="font-bold text-[#0a522f] dark:text-emerald-300">100% Plant Power</h4>
-                  <p className="text-[10px] text-gray-500 dark:text-gray-350">Zero Synthetic Sulfate</p>
-                </div>
-              </div>
 
-              <div className="flex items-center gap-2">
-                <div className="p-2 rounded-lg bg-emerald-500/10 text-emerald-500">
-                  <ShieldCheck size={16} />
-                </div>
-                <div>
-                  <h4 className="font-bold text-[#0a522f] dark:text-emerald-300">Chennai Certified</h4>
-                  <p className="text-[10px] text-gray-500 dark:text-gray-350">Cruelty-Free Safe</p>
-                </div>
-              </div>
-            </div>
           </div>
 
         </div>
