@@ -138,7 +138,7 @@ export default function Navbar({
 
                 {/* Custom Brand Typography with Letter Spacing */}
                 <g id="typography" transform="translate(43, 0)">
-                  {/* LUBBLE next to the upper loop of B */}
+                  {/* UBBLE next to the upper loop of B */}
                   <text 
                     x="0" 
                     y="18.5" 
@@ -149,7 +149,7 @@ export default function Navbar({
                     fill={isDarkMode ? '#f8f5ec' : '#0c5c36'}
                     className="transition-colors duration-300"
                   >
-                    LUBBLE
+                    UBBLE
                   </text>
                   
                   {/* BAY next to the lower loop of B */}
